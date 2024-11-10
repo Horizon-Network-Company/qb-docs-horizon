@@ -1,24 +1,16 @@
-# Table of contents
+# Tabla de contenido
 
-* [👋 Introduction](README.md)
-* [📀 Rent a FiveM Server](https://zap-hosting.com/qbcore)
+* [👋 Introduccion](README.md)
 
-## Project Sponsors
+## Guias
 
-* [✍️ JetBrains](project-sponsors/jetbrains.md)
-* [📚 GitBook](project-sponsors/gitbook.md)
-* [🗃️ Pleb Masters: Forge](project-sponsors/pleb-masters-forge.md)
-* [🎥 KakarotDevs](project-sponsors/kakarotdevs.md)
-
-## Guides
-
-* [🪟 Windows Installation](guides/windows-installation.md)
-* [🐧 Linux Installation](guides/linux-installation.md)
-* [🔓 Setting Permissions](guides/setting-permissions.md)
-* [🚀 Script Optimization](guides/script-optimization.md)
-* [📑 Miscellaneous Guides](guides/miscellaneous-guides.md)
+* [🪟 Instalacion Windows](guides/windows-installation.md)
+* [🐧 Instalacion Linux](guides/linux-installation.md)
+* [🔓 Asignar permisos](guides/setting-permissions.md)
+* [🚀 Optimizacion de Scripts](guides/script-optimization.md)
+* [📑 Guias varias](guides/miscellaneous-guides.md)
 * [📝 Visual Studio Code](guides/visual-studio-code.md)
-* [🔗 Useful Links](guides/useful-links.md)
+* [🔗 Links utiles](guides/useful-links.md)
 
 ## QB-Core
 
@@ -30,9 +22,9 @@
 * [🎮 Client Function Reference](qb-core/client-function-reference.md)
 * [🖥️ Server Event Reference](qb-core/server-event-reference.md)
 * [🖥️ Server Function Reference](qb-core/server-function-reference.md)
-* [❗ Commands](qb-core/commands.md)
+* [❗ Comandos](qb-core/commands.md)
 
-## QBCore Resources
+## Guia de Scripts (QBCore)
 
 * [🔧 qb-adminmenu](qbcore-resources/qb-adminmenu.md)
 * [🚑 qb-ambulancejob](qbcore-resources/qb-ambulancejob.md)
